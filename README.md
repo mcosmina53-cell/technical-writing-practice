@@ -1,4 +1,4 @@
-</> Markdown
+
 # How to Create a GitHub Account
 ## Overview
 Write 1-2 simple sentences about what this guide does.
