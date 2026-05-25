@@ -8,4 +8,4 @@ Write 1-2 simple sentences about what this guide does.
 * Enter your email
 * Create Password
 ## Result
-You now have a Github account.
+You now have a Github account
